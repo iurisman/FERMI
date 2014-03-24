@@ -1,3 +1,5 @@
+## On March 23 2014 this project has been moved to its permanent home at [fermiframework.org](http://fermiframework.org)
+
 # FERMI
 
 #####Server-client remote JavaScript method invocation (RMI) Framework.
