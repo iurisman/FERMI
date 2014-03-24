@@ -1,4 +1,4 @@
-## On March 23 2014 this project has been moved to its permanent home at [fermiframework.org](http://fermiframework.org)
+## Permanently moved to [fermiframework.org](http://fermiframework.org) (23 March 2014)
 
 # FERMI
 
